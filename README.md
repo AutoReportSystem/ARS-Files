@@ -11,4 +11,4 @@ arsobj.AddComponent<ARS.ARSComponent>();
 ```
 3. You are done! ARS is now fully implemented into your project.
 
-**Note: insure to add the proper `using` or directive statements in the ARS.cs/COPY.cs file**
+**Note: ensure to add the proper `using` or directive statements in the ARS.cs/COPY.cs file**
