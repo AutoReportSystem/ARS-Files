@@ -12,3 +12,26 @@ arsobj.AddComponent<ARS.ARSComponent>();
 3. You are done! ARS is now fully implemented into your project.
 
 **Note: ensure to add the proper `using` or directive statements in the ARS.cs/COPY.cs file**
+
+
+<details>
+  <summary><b>❓ Cool, but what do I need to do?</b></summary>
+
+Not much, really.  
+This project uses the **MIT License** ([LICENSE](LICENSE)).
+
+That means you can:
+- use it
+- change it
+- ship it
+- sell it
+- probably do something I never intended
+
+Just a couple things:
+- keep the copyright + license notice
+- don’t say I wrote your whole project
+- don’t blame me if it breaks
+
+That’s literally it.
+
+</details>
