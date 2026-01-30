@@ -15,7 +15,7 @@ arsobj.AddComponent<ARS.ARSComponent>();
 
 
 <details>
-  <summary><b>❓ Cool, but what do I need to do?</b></summary>
+  <summary><b>❓ Cool, but what do I need to do if I add it to my own mod?</b></summary>
 
 Not much, really.  
 This project uses the **MIT License** ([LICENSE](LICENSE)).
