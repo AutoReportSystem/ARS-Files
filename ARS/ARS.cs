@@ -12,7 +12,7 @@ using UnityEngine;
 namespace ARS;
 
 [BepInIncompatibility("industry.resurgencev2")]
-[BepInPlugin("com.industry.autoreportsys", "Automatic Reporting System", "1.0.0")]
+[BepInPlugin("industry.autoreportsys", "Automatic Reporting System", "1.0.0")]
 internal class ARS : BaseUnityPlugin
 {
     #region Main
